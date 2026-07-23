@@ -59,7 +59,7 @@ CobbleRide 是一个独立开发、非官方的 Cobblemon Fabric 附属模组，
 
 构建产物位于 `build/libs/`。
 
-依赖通过 Gradle 从其官方 Maven 仓库取得，不应将 Minecraft、Cobblemon 或其他第三方 JAR 提交到本仓库。
+依赖通过 Gradle 从公开 Maven 仓库取得；Cobblemon 构建依赖使用其 Modrinth Maven 构件。不应将 Minecraft、Cobblemon 或其他第三方 JAR 提交到本仓库。
 
 ## 独立项目声明
 
