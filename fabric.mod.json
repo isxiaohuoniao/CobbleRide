@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "cobbleride",
+	"version": "${version}",
+	"name": "CobbleRide",
+	"description": "An independent, unofficial Cobblemon add-on for summoning and switching rideable party creatures.",
+	"authors": [
+		"CobbleRide contributors"
+	],
+	"license": "MIT",
+	"icon": "assets/cobbleride/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"cobbleride.CobbleRide"
+		],
+		"client": [
+			"cobbleride.client.CobbleRideClient"
+		],
+		"fabric-datagen": [
+			"cobbleride.CobbleRideDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*",
+		"cobblemon": ">=1.7.1"
+	}
+}

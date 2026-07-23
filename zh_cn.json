@@ -1,0 +1,13 @@
+{
+  "key.categories.cobbleride": "CobbleRide",
+  "key.cobbleride.ride_wheel": "同行精灵骑乘轮盘",
+  "screen.cobbleride.ride_wheel": "选择骑乘精灵",
+  "screen.cobbleride.no_rideable": "队伍中没有可以骑乘的精灵",
+  "screen.cobbleride.release_to_close": "松开 V 关闭",
+  "screen.cobbleride.release_to_ride": "松开 V 骑乘 %s",
+  "screen.cobbleride.choose": "移动鼠标选择精灵",
+  "screen.cobbleride.tap_hint": "短按 V：快速召唤或收回上次坐骑",
+  "screen.cobbleride.level": "Lv.%s",
+  "message.cobbleride.not_rideable": "这只精灵目前无法骑乘",
+  "message.cobbleride.in_battle": "战斗中的精灵无法换乘"
+}

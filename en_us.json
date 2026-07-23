@@ -1,0 +1,13 @@
+{
+  "key.categories.cobbleride": "CobbleRide",
+  "key.cobbleride.ride_wheel": "Companion ride wheel",
+  "screen.cobbleride.ride_wheel": "Choose a ride Pokémon",
+  "screen.cobbleride.no_rideable": "There are no rideable Pokémon in your party",
+  "screen.cobbleride.release_to_close": "Release V to close",
+  "screen.cobbleride.release_to_ride": "Release V to ride %s",
+  "screen.cobbleride.choose": "Move the mouse to choose a Pokémon",
+  "screen.cobbleride.tap_hint": "Tap V: summon or recall your last mount",
+  "screen.cobbleride.level": "Lv.%s",
+  "message.cobbleride.not_rideable": "That Pokémon cannot currently be ridden",
+  "message.cobbleride.in_battle": "A battling Pokémon cannot be switched"
+}
